@@ -1,0 +1,14 @@
+[build-system]
+requires = []
+build-backend = "franre_build"
+backend-path = ["src"]
+
+[project]
+name = "franre"
+version = "0.1.0"
+description = "python library to quick solve franklin-reiter rsa tasks"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "zyrokun" }]
+keywords = ["rsa", "cryptography", "franklin-reiter", "cryptanalysis"]
