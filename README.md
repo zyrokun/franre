@@ -12,7 +12,8 @@
 python3 -m pip install . --break-system-packages
 ```
 6. you're done.
-
+   
+OR JUST RUN pip install franre
 ## example of usage
 
 ```python
