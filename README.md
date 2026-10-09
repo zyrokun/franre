@@ -12,6 +12,7 @@
 python3 -m pip install . --break-system-packages
 ```
 6. you're done.
+   (sagemath is required)
    
 ## OR JUST RUN 
 ```bash
